@@ -1,0 +1,150 @@
+2023-05-29 18:04:54,512 - INFO - domains were extracted from txt files
+2023-05-29 18:08:04,850 - INFO - domains were extracted from txt files
+2023-05-29 18:11:11,332 - INFO - domains were extracted from txt files
+2023-05-29 18:11:11,338 - INFO - csv with domains was created
+2023-05-29 18:11:11,344 - INFO - domains were extracted from txt files
+2023-05-29 18:11:11,346 - INFO - csv with domains was created
+2023-05-29 18:11:11,365 - INFO - the domain allpac[.com[.au doesn't exist in carrier intel
+2023-05-29 18:11:13,174 - INFO - virus total Category check failed allpac[.com[.au
+2023-05-29 18:11:44,558 - INFO - domains were extracted from txt files
+2023-05-29 18:11:44,561 - INFO - csv with domains was created
+2023-05-29 18:11:44,562 - INFO - domains were extracted from txt files
+2023-05-29 18:11:44,563 - INFO - csv with domains was created
+2023-05-29 18:11:44,579 - INFO - the domain allpac[.com[.au doesn't exist in carrier intel
+2023-05-29 18:11:45,087 - INFO - virus total Category check failed allpac[.com[.au
+2023-05-29 18:11:45,089 - INFO - crete json done: allpac[.com[.au
+2023-05-29 18:11:45,089 - INFO - Done : allpac[.com[.au
+2023-05-29 18:12:12,743 - INFO - domains were extracted from txt files
+2023-05-29 18:12:12,750 - INFO - csv with domains was created
+2023-05-29 18:12:12,753 - INFO - domains were extracted from txt files
+2023-05-29 18:12:12,755 - INFO - csv with domains was created
+2023-05-29 18:12:12,782 - INFO - the domain allpac[.com[.au doesn't exist in carrier intel
+2023-05-29 18:12:13,281 - INFO - virus total Category check failed allpac[.com[.au
+2023-05-29 18:12:13,284 - INFO - crete json done: allpac[.com[.au
+2023-05-29 18:12:13,284 - INFO - Done : allpac[.com[.au
+2023-05-29 18:12:13,284 - INFO - files were moved to archive
+2023-05-29 18:12:13,284 - INFO - files were moved to archive
+2023-05-29 18:17:26,943 - INFO - domains were extracted from txt files
+2023-05-29 18:17:26,948 - INFO - csv with domains was created
+2023-05-29 18:17:26,950 - INFO - domains were extracted from txt files
+2023-05-29 18:17:26,951 - INFO - csv with domains was created
+2023-05-29 18:17:26,976 - INFO - the domain allpac[.com[.au doesn't exist in carrier intel
+2023-05-29 18:17:27,667 - INFO - virus total Category check failed allpac[.com[.au
+2023-05-29 18:17:27,670 - INFO - crete json done: allpac[.com[.au
+2023-05-29 18:17:27,670 - INFO - Done : allpac[.com[.au
+2023-05-29 18:17:27,671 - INFO - files were moved to archive
+2023-05-29 18:17:27,671 - INFO - files were moved to archive
+2023-05-29 18:18:39,051 - INFO - domains were extracted from txt files
+2023-05-29 18:18:39,056 - INFO - csv with domains was created
+2023-05-29 18:18:39,058 - INFO - domains were extracted from txt files
+2023-05-29 18:18:39,059 - INFO - csv with domains was created
+2023-05-29 18:18:39,075 - INFO - the domain allpac[.com[.au doesn't exist in carrier intel
+2023-05-29 18:18:39,962 - INFO - virus total Category check failed allpac[.com[.au
+2023-05-29 18:18:39,966 - INFO - crete json done: allpac[.com[.au
+2023-05-29 18:18:39,966 - INFO - Done : allpac[.com[.au
+2023-05-29 18:18:39,967 - INFO - files were moved to archive
+2023-05-29 18:18:39,967 - INFO - files were moved to archive
+2023-05-29 18:21:30,711 - INFO - domains were extracted from txt files
+2023-05-29 18:21:30,716 - INFO - csv with domains was created
+2023-05-29 18:21:30,718 - INFO - domains were extracted from txt files
+2023-05-29 18:21:30,720 - INFO - csv with domains was created
+2023-05-29 18:21:30,738 - INFO - the domain allpac.com.au doesn't exist in carrier intel
+2023-05-29 18:21:32,201 - INFO - virus total Category check DONE: allpac.com.au
+2023-05-29 18:21:32,205 - INFO - crete json done: allpac.com.au
+2023-05-29 18:21:32,205 - INFO - Done : allpac.com.au
+2023-05-29 18:21:32,232 - INFO - the domain almadecine.com doesn't exist in carrier intel
+2023-05-29 18:21:32,835 - INFO - virus total Category check DONE: almadecine.com
+2023-05-29 18:21:32,838 - INFO - crete json done: almadecine.com
+2023-05-29 18:21:32,838 - INFO - Done : almadecine.com
+2023-05-29 18:21:32,863 - INFO - the domain rwbm.net.au doesn't exist in carrier intel
+2023-05-29 18:21:33,516 - INFO - virus total Category check DONE: rwbm.net.au
+2023-05-29 18:21:33,520 - INFO - crete json done: rwbm.net.au
+2023-05-29 18:21:33,520 - INFO - Done : rwbm.net.au
+2023-05-29 18:21:33,545 - INFO - the domain blindtrack.co.uk doesn't exist in carrier intel
+2023-05-29 18:21:34,106 - INFO - virus total Category check DONE: blindtrack.co.uk
+2023-05-29 18:21:34,108 - INFO - crete json done: blindtrack.co.uk
+2023-05-29 18:21:34,108 - INFO - Done : blindtrack.co.uk
+2023-05-29 18:21:34,131 - INFO - the domain dumpsterrentalnj.com doesn't exist in carrier intel
+2023-05-29 18:21:34,775 - INFO - virus total Category check DONE: dumpsterrentalnj.com
+2023-05-29 18:21:34,777 - INFO - crete json done: dumpsterrentalnj.com
+2023-05-29 18:21:34,777 - INFO - Done : dumpsterrentalnj.com
+2023-05-29 18:21:34,777 - INFO - files were moved to archive
+2023-05-29 18:21:34,778 - INFO - files were moved to archive
+2023-05-29 18:23:01,047 - INFO - domains were extracted from txt files
+2023-05-29 18:23:01,053 - INFO - csv with domains was created
+2023-05-29 18:23:01,055 - INFO - domains were extracted from txt files
+2023-05-29 18:23:01,057 - INFO - csv with domains was created
+2023-05-29 18:23:01,080 - INFO - the domain allpac.com.au doesn't exist in carrier intel
+2023-05-29 18:23:01,914 - INFO - virus total Category check DONE: allpac.com.au
+2023-05-29 18:23:01,916 - INFO - crete json done: allpac.com.au
+2023-05-29 18:23:01,917 - INFO - Done : allpac.com.au
+2023-05-29 18:23:01,938 - INFO - the domain almadecine.com doesn't exist in carrier intel
+2023-05-29 18:23:02,627 - INFO - virus total Category check DONE: almadecine.com
+2023-05-29 18:23:02,630 - INFO - crete json done: almadecine.com
+2023-05-29 18:23:02,630 - INFO - Done : almadecine.com
+2023-05-29 18:23:02,660 - INFO - the domain rwbm.net.au doesn't exist in carrier intel
+2023-05-29 18:23:03,290 - INFO - virus total Category check DONE: rwbm.net.au
+2023-05-29 18:23:03,293 - INFO - crete json done: rwbm.net.au
+2023-05-29 18:23:03,293 - INFO - Done : rwbm.net.au
+2023-05-29 18:23:03,315 - INFO - the domain blindtrack.co.uk doesn't exist in carrier intel
+2023-05-29 18:23:03,930 - INFO - virus total Category check DONE: blindtrack.co.uk
+2023-05-29 18:23:03,933 - INFO - crete json done: blindtrack.co.uk
+2023-05-29 18:23:03,933 - INFO - Done : blindtrack.co.uk
+2023-05-29 18:23:03,961 - INFO - the domain dumpsterrentalnj.com doesn't exist in carrier intel
+2023-05-29 18:23:04,572 - INFO - virus total Category check DONE: dumpsterrentalnj.com
+2023-05-29 18:23:04,576 - INFO - crete json done: dumpsterrentalnj.com
+2023-05-29 18:23:04,576 - INFO - Done : dumpsterrentalnj.com
+2023-05-29 18:23:04,576 - INFO - files were moved to archive
+2023-05-29 18:23:04,577 - INFO - files were moved to archive
+2023-05-29 18:25:36,094 - INFO - domains were extracted from txt files
+2023-05-29 18:25:36,098 - INFO - csv with domains was created
+2023-05-29 18:25:36,100 - INFO - domains were extracted from txt files
+2023-05-29 18:25:36,101 - INFO - csv with domains was created
+2023-05-29 18:25:36,123 - INFO - the domain allpac.com.au doesn't exist in carrier intel
+2023-05-29 18:25:37,273 - INFO - virus total Category check DONE: allpac.com.au
+2023-05-29 18:25:37,277 - INFO - crete json done: allpac.com.au
+2023-05-29 18:25:37,277 - INFO - Done : allpac.com.au
+2023-05-29 18:25:37,307 - INFO - the domain almadecine.com doesn't exist in carrier intel
+2023-05-29 18:25:38,100 - INFO - virus total Category check DONE: almadecine.com
+2023-05-29 18:25:38,106 - INFO - crete json done: almadecine.com
+2023-05-29 18:25:38,106 - INFO - Done : almadecine.com
+2023-05-29 18:25:38,132 - INFO - the domain rwbm.net.au doesn't exist in carrier intel
+2023-05-29 18:25:38,763 - INFO - virus total Category check DONE: rwbm.net.au
+2023-05-29 18:25:38,767 - INFO - crete json done: rwbm.net.au
+2023-05-29 18:25:38,767 - INFO - Done : rwbm.net.au
+2023-05-29 18:25:38,792 - INFO - the domain blindtrack.co.uk doesn't exist in carrier intel
+2023-05-29 18:25:39,292 - INFO - virus total Category check DONE: blindtrack.co.uk
+2023-05-29 18:25:39,296 - INFO - crete json done: blindtrack.co.uk
+2023-05-29 18:25:39,296 - INFO - Done : blindtrack.co.uk
+2023-05-29 18:25:39,324 - INFO - the domain dumpsterrentalnj.com doesn't exist in carrier intel
+2023-05-29 18:25:40,380 - INFO - virus total Category check DONE: dumpsterrentalnj.com
+2023-05-29 18:25:40,384 - INFO - crete json done: dumpsterrentalnj.com
+2023-05-29 18:25:40,384 - INFO - Done : dumpsterrentalnj.com
+2023-05-29 18:25:40,385 - INFO - files were moved to archive
+2023-05-29 18:25:40,385 - INFO - files were moved to archive
+2023-05-29 18:28:57,161 - INFO - domains were extracted from txt files
+2023-05-29 18:28:57,165 - INFO - csv with domains was created
+2023-05-29 18:28:57,167 - INFO - domains were extracted from txt files
+2023-05-29 18:28:57,168 - INFO - csv with domains was created
+2023-05-29 18:28:57,186 - INFO - the domain allpac.com.au doesn't exist in carrier intel
+2023-05-29 18:28:57,912 - INFO - virus total Category check DONE: allpac.com.au
+2023-05-29 18:28:57,915 - INFO - crete json done: allpac.com.au
+2023-05-29 18:28:57,915 - INFO - Done : allpac.com.au
+2023-05-29 18:28:57,935 - INFO - the domain almadecine.com doesn't exist in carrier intel
+2023-05-29 18:28:58,508 - INFO - virus total Category check DONE: almadecine.com
+2023-05-29 18:28:58,512 - INFO - crete json done: almadecine.com
+2023-05-29 18:28:58,512 - INFO - Done : almadecine.com
+2023-05-29 18:28:58,537 - INFO - the domain rwbm.net.au doesn't exist in carrier intel
+2023-05-29 18:28:59,062 - INFO - virus total Category check DONE: rwbm.net.au
+2023-05-29 18:28:59,063 - INFO - crete json done: rwbm.net.au
+2023-05-29 18:28:59,064 - INFO - Done : rwbm.net.au
+2023-05-29 18:28:59,081 - INFO - the domain blindtrack.co.uk doesn't exist in carrier intel
+2023-05-29 18:28:59,685 - INFO - virus total Category check DONE: blindtrack.co.uk
+2023-05-29 18:28:59,687 - INFO - crete json done: blindtrack.co.uk
+2023-05-29 18:28:59,687 - INFO - Done : blindtrack.co.uk
+2023-05-29 18:28:59,713 - INFO - the domain dumpsterrentalnj.com doesn't exist in carrier intel
+2023-05-29 18:29:00,465 - INFO - virus total Category check DONE: dumpsterrentalnj.com
+2023-05-29 18:29:00,469 - INFO - crete json done: dumpsterrentalnj.com
+2023-05-29 18:29:00,469 - INFO - Done : dumpsterrentalnj.com
+2023-05-29 18:29:00,470 - INFO - files were moved to archive
+2023-05-29 18:29:00,470 - INFO - files were moved to archive
